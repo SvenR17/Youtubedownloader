@@ -1,0 +1,23 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-color: 
+}
+
+.cllymnsm{
+    width: 100%;
+    height: 100%;
+}
+
+.card-.mdl-card {
+  width: 512px;
+}
+.card- > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+  background: url('https://hd.unsplash.com/photo-1468818519844-64bc429824de') center / cover;
+}
+.card- > .mdl-card__menu {
+  color: #fff;
+}
